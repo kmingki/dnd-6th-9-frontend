@@ -1,4 +1,10 @@
-# DND 9조 FE
+# Grats 롤링페이퍼 서비스
+![image](https://github.com/kmingki/dnd-6th-9-frontend/assets/63445553/d0b3e87a-bffc-4d9b-86b7-6a42a5646371)
+![image](https://github.com/kmingki/dnd-6th-9-frontend/assets/63445553/f984d7bc-b779-4d7e-a635-d01a4fde6850)
+
+
+## 프로젝트 기간
+2022.01-2022.02
 
 ## 팀원 소개
 
@@ -16,7 +22,7 @@
 - Jest
 ## Infra
 
-![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/60d1f86e-b3df-4454-ab04-ed2f79c40a89/FE.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220127%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220127T062046Z&X-Amz-Expires=86400&X-Amz-Signature=a3b0059d85e75884d1348731a50eea4caa91b1c579512af219caf6bd99521e6d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22FE.png%22&x-id=GetObject)
+![image](https://github.com/kmingki/dnd-6th-9-frontend/assets/63445553/7b8dbfa0-5020-4a6d-98a2-8f3f21519513)
 
 ## Commit Message
 
